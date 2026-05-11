@@ -4,16 +4,16 @@ A full-stack web application designed to manage gym operations and track user wo
 Built with a modern tech stack including React, Node.js / Python backend, and MySQL.
 
 🚀 Features -
--
- 🔐 User Authentication (Admin, Trainer, Member, Owner roles)
- 🏋️ Workout Tracking & History
- 📊 Dashboard for activity insights
- 👥 Gym Member Management
- 🧾 Membership Plans & Management
- 🧑‍🏫 Trainer Assignment
- 📅 Workout Scheduling
- ⚡ Real-time frontend with React
--
+
+  -🔐 User Authentication (Admin, Trainer, Member, Owner roles)
+  -🏋️ Workout Tracking & History
+  -📊 Dashboard for activity insights
+  -👥 Gym Member Management
+  -🧾 Membership Plans & Management
+  -🧑‍🏫 Trainer Assignment
+  -📅 Workout Scheduling
+  -⚡ Real-time frontend with React
+
 
 Steps to Run 
 
